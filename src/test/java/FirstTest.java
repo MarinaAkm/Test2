@@ -1,19 +1,14 @@
-
-import org.junit.Test;
-import org.junit.jupiter.api.AfterAll;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.*;
 
 public class FirstTest {
 
     @BeforeEach
-    public static void TestStart(){
+    public void TestStart(){
         System.out.println("Test start");
     }
 
     @AfterEach
-    public static void TestFinished(){
+    public void TestFinished(){
         System.out.println("Test finished");
     }
 
