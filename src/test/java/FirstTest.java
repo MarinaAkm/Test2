@@ -1,4 +1,3 @@
-import org.assertj.core.api.SoftAssertions;
 import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
@@ -28,7 +27,7 @@ public class FirstTest {
     @Test
     public void myTest() {
         System.out.println("My first autotest running");
-        assertEquals(1, 1/0);
+        assertEquals(1,1/0);
     }
 
     @Test

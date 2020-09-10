@@ -1,5 +1,7 @@
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.junit.jupiter.api.*;
+import org.junit.Test;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -29,7 +31,7 @@ public class LoginTest {
     @Test
     public void incorrectUserNameAndPassword(){
         By elementLocator = By.xpath("//*[contains(text(), 'Invalid credentials')]");
-        driver.findElement(By.cssSelector("[name='_username']")).sendKeys("TestUser");
+        driver.findElement(By.cssSelector("[name = '_username']")).sendKeys("TestUser");
         driver.findElement(By.cssSelector("#password")).sendKeys("Password");
         try {
             driver.findElement(elementLocator);
