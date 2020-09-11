@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:github/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2241ff0-9d6b-48a3-929a-0c3c175a0a4a" name="Default Changelist" comment="new commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h38X9Ew9QtvZfoqd0OGslrErGH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Марина\IdeaProjects\Test1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.LoginTest">
+    <configuration name="FirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.myTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="myTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FirstTest.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.incorrectUserNameAndPassword" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LoginTest" />
+      <option name="METHOD_NAME" value="incorrectUserNameAndPassword" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.LoginTest.incorrectUserNameAndPassword" />
+        <item itemvalue="JUnit.FirstTest.test5" />
+        <item itemvalue="JUnit.FirstTest.myTest" />
+        <item itemvalue="JUnit.FirstTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2241ff0-9d6b-48a3-929a-0c3c175a0a4a" name="Default Changelist" comment="" />
+      <created>1599228454018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599228454018</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new commit">
+      <created>1599229364238</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599229364238</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new commit">
+      <created>1599230276280</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599230276280</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new commit">
+      <created>1599232737428</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599232737428</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new commit">
+      <created>1599253753463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1599253753463</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new commit">
+      <created>1599656666098</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599656666098</updated>
+    </task>
+    <task id="LOCAL-00006" summary="new commit">
+      <created>1599659736247</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599659736247</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new commit">
+      <created>1599732082402</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599732082403</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new commit">
+      <created>1599739755838</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599739755838</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new commit">
+      <created>1599811243229</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599811243229</updated>
+    </task>
+    <task id="LOCAL-00010" summary="new commit">
+      <created>1599812743635</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599812743635</updated>
+    </task>
+    <task id="LOCAL-00011" summary="new commit">
+      <created>1599812829905</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599812829905</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new commit">
+      <created>1599812856431</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1599812856431</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="github/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1043" y="209" key="#Inspections" timestamp="1599657872772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1043" y="209" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1599657872772" />
+    <state x="880" y="105" key="#Project_Structure" timestamp="1599808885253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="105" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1599808885253" />
+    <state x="1134" y="287" key="FileChooserDialogImpl" timestamp="1599812625898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1134" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599812625898" />
+    <state x="1296" y="429" key="Github.ShareDialog" timestamp="1599812818442">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1296" y="429" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599812818442" />
+    <state width="937" height="430" key="GridCell.Tab.0.bottom" timestamp="1599812665013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="430" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599812665013" />
+    <state width="937" height="430" key="GridCell.Tab.0.center" timestamp="1599812665012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="430" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599812665012" />
+    <state width="937" height="430" key="GridCell.Tab.0.left" timestamp="1599812665012">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="430" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599812665012" />
+    <state width="937" height="430" key="GridCell.Tab.0.right" timestamp="1599812665013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="430" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599812665013" />
+    <state width="937" height="430" key="GridCell.Tab.1.bottom" timestamp="1599812665014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="430" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599812665014" />
+    <state width="937" height="430" key="GridCell.Tab.1.center" timestamp="1599812665013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="430" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599812665013" />
+    <state width="937" height="430" key="GridCell.Tab.1.left" timestamp="1599812665013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="430" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599812665013" />
+    <state width="937" height="430" key="GridCell.Tab.1.right" timestamp="1599812665013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="937" height="430" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599812665013" />
+    <state x="979" y="175" key="Maven.ArtifactSearchDialog" timestamp="1599657539495">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="979" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599657539495" />
+    <state x="880" y="105" key="SettingsEditor" timestamp="1599812924825">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="880" y="105" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1599812924825" />
+    <state x="1349" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599229313050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1349" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1599229313050" />
+    <state x="963" y="267" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599808345136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="963" y="267" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1599808345136" />
+    <state x="551" y="0" width="773" height="712" key="dock-window-1" timestamp="1599749195493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="0" width="773" height="712" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1599749195493" />
+    <state x="1333" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599228655707">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1333" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599228655707" />
+    <state x="1105" y="274" key="refactoring.ChangeSignatureDialog" timestamp="1599480690855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1105" y="274" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1599480690855" />
+    <state x="1073" y="248" key="run.anything.popup" timestamp="1599730824371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1073" y="248" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599730824371" />
+    <state x="1067" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1599658218064">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1067" y="236" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599658218064" />
+  </component>
+</project>
