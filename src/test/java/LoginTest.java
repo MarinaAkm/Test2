@@ -1,4 +1,5 @@
-import org.junit.Test;
+import io.github.bonigarcia.wdm.WebDriverManager;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.*;
@@ -14,10 +15,9 @@ public class LoginTest {
 
     @BeforeEach
     public void initWebDriver() {
-        System.setProperty("webdriver.chrome.driver", "C:/users/Марина/chromedriver.exe");
-        ChromeOptions option = new ChromeOptions();
-        option.addArguments("--window-size=500,500");
-        driver = new ChromeDriver(option);
+        WebDriverManager.chromedriver().setup();
+        WebDriver driver = new ChromeDriver();
+        new ChromeOptions().addArguments("--window-size=500,500");
         driver.manage().window().setSize(new Dimension(200, 100));
         driver.navigate().to("https://tt-develop.quality-lab.ru");
         driver.manage().window().maximize();
